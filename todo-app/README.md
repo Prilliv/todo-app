@@ -28,18 +28,3 @@ React
 Vite
 
 JavaScript
-
-
----
-
-### 3. Завантаж на GitHub
-
-У терміналі, **в папці `todo-app`**, виконай:
-
-```bash
-git init
-git add .
-git commit -m "Create simple todo app with React and Vite"
-git branch -M main
-git remote add origin https://github.com/ТВІЙ-USERNAME/todo-app.git
-git push -u origin main
